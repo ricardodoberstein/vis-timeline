@@ -74,7 +74,7 @@
     "@egjs/hammerjs": "2.0.17",
     "@rollup/plugin-strip": "2.1.0",
     "component-emitter": "1.3.0",
-    "cpy-cli": "3.1.1",
+    "cpy-cli": "4.1.0",
     "eslint": "7.32.0",
     "gh-pages": "3.2.3",
     "git-authors-cli": "1.0.39",
